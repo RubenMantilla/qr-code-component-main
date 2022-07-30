@@ -1,0 +1,15 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+:root{
+	--backgoundcolorcard-White: hsl(0, 0%, 100%);
+	--backgroundcolorpage-Lightgray: hsl(212, 45%, 89%);
+	--colorparagraph-Grayishblue: hsl(220, 15%, 55%);
+	--colorheading-Darkblue: hsl(218, 44%, 22%);
+	--fontsizeparagraph: 15px;
+	--fontfamily: 'Outfit', sans-serif;
+
+}
