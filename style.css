@@ -86,8 +86,6 @@ p{
 @media screen and (min-width: 1440px) {
 
 	.qr{
-		height: 700px;
-		width: 465px;
 		display: flex;
 		flex-direction: column;
 		justify-content: flex-start;
@@ -95,19 +93,6 @@ p{
 		align-content: space-between;
 	}
 
-	.qr img{
-		height: 435px;
-		width: 435px;
-	}
-
-	h1{
-		font-size: 2vw;
-	}
-
-	p{
-		font-size: 1.5vw;
-	}
-	
 	.attribution{
 		font-size: 1vw;
 	}
